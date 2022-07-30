@@ -1,6 +1,6 @@
 package com.zhuiyi.demo.studyTest.multithreading;
 
-/**
+/** 等待唤醒机制
  * @author by niYongJian
  * @Date 2022-07-28 20:26
  */
