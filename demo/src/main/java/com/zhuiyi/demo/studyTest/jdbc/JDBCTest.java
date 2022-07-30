@@ -3,7 +3,7 @@ package com.zhuiyi.demo.studyTest.jdbc;
 import java.sql.*;
 import java.util.Scanner;
 
-/** JDBC连接
+/** JDBC连接，访问数据库【增删改查操作】
  * @author by niYongJian
  * @Date 2022-07-26 20:29
  */
